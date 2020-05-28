@@ -1,0 +1,13 @@
+C:\Users\Jesse\source\repos\LINQ Console App Practice\LINQ Console App Practice\bin\Debug\netcoreapp3.1\LINQ Console App Practice.exe
+C:\Users\Jesse\source\repos\LINQ Console App Practice\LINQ Console App Practice\bin\Debug\netcoreapp3.1\LINQ Console App Practice.deps.json
+C:\Users\Jesse\source\repos\LINQ Console App Practice\LINQ Console App Practice\bin\Debug\netcoreapp3.1\LINQ Console App Practice.runtimeconfig.json
+C:\Users\Jesse\source\repos\LINQ Console App Practice\LINQ Console App Practice\bin\Debug\netcoreapp3.1\LINQ Console App Practice.runtimeconfig.dev.json
+C:\Users\Jesse\source\repos\LINQ Console App Practice\LINQ Console App Practice\bin\Debug\netcoreapp3.1\LINQ Console App Practice.dll
+C:\Users\Jesse\source\repos\LINQ Console App Practice\LINQ Console App Practice\bin\Debug\netcoreapp3.1\LINQ Console App Practice.pdb
+C:\Users\Jesse\source\repos\LINQ Console App Practice\LINQ Console App Practice\obj\Debug\netcoreapp3.1\LINQ Console App Practice.csprojAssemblyReference.cache
+C:\Users\Jesse\source\repos\LINQ Console App Practice\LINQ Console App Practice\obj\Debug\netcoreapp3.1\LINQ Console App Practice.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\source\repos\LINQ Console App Practice\LINQ Console App Practice\obj\Debug\netcoreapp3.1\LINQ Console App Practice.AssemblyInfoInputs.cache
+C:\Users\Jesse\source\repos\LINQ Console App Practice\LINQ Console App Practice\obj\Debug\netcoreapp3.1\LINQ Console App Practice.AssemblyInfo.cs
+C:\Users\Jesse\source\repos\LINQ Console App Practice\LINQ Console App Practice\obj\Debug\netcoreapp3.1\LINQ Console App Practice.dll
+C:\Users\Jesse\source\repos\LINQ Console App Practice\LINQ Console App Practice\obj\Debug\netcoreapp3.1\LINQ Console App Practice.pdb
+C:\Users\Jesse\source\repos\LINQ Console App Practice\LINQ Console App Practice\obj\Debug\netcoreapp3.1\LINQ Console App Practice.genruntimeconfig.cache
