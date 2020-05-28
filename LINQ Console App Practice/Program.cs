@@ -48,11 +48,11 @@ namespace LINQ_Console_App_Practice
             //Console.WriteLine(count);
 
             //For Students
-            //1.*****************
-            //List<Student> aged21 = students.Where(x => x.Age >= 21).ToList();
+            //1.
+            //List < Student > aged21 = students.Where(x => x.Age >= 21).ToList();
             //foreach (var s in aged21)
             //{
-            //    Console.WriteLine(s);
+            //    Console.WriteLine(s.Name);
             //}
 
             //2.
